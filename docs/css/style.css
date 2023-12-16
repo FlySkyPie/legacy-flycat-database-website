@@ -1,0 +1,26 @@
+.BOX {
+	width: 300px;
+	height: 300px;
+	
+	position:absolute;
+	left:50%;
+	top:50%;
+	
+	margin-top:-150px;
+	margin-left:-150px;
+}
+
+body {
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center center;
+}
+
+#menu {
+	width:auto;
+	height:auto;
+	position:center;
+	left:400;
+}
+
+
